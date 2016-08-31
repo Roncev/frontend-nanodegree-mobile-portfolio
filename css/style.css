@@ -55,31 +55,6 @@ border:0;
 max-width:100%;
 }
 
-header,footer,.container {
-max-width:45em;
-margin:0 auto;
-}
-
-header {
-color:#C90B0B;
-padding:0 .5em;
-}
-
-header img {
-border-radius:40px;
-float:left;
-}
-
-header p {
-font-size:1.5em;
-font-weight:700;
-padding-left:4em;
-}
-
-header p span {
-font-size:.8em;
-font-weight:400;
-}
 
 .hero {
 background-color:#f8f8f8;
